@@ -18,5 +18,8 @@
     <ClCompile Include="ip.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="t.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
